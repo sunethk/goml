@@ -1,0 +1,1 @@
+./goml-apple-intel -image nums/9.png
